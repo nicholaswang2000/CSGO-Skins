@@ -1,0 +1,249 @@
+{
+  "items_list": {
+    "AK-47 | Aquamarine Revenge (Battle-Scarred)": {
+      "name": "AK-47 | Aquamarine Revenge (Battle-Scarred)",
+      "marketable": 1,
+      "tradable": 1,
+      "classid": "1759174527",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09-5gZKKkPLLMrfFqWNU6dNoxL3H94qm3Ffm_RE6amn2ctWXdlI2ZwqB-FG_w-7s0ZK-7cjLzyE37HI8pSGKrIDGOAI",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09-5gZKKkPLLMrfFqWNU6dNoteXA54vwxgCyqRVvZzrxItTDewY7NwvS_gW2x7y-h5a9vp3KnXZh63Ug4yyJyUepwUYbPABm4j8",
+      "type": "Weapon",
+      "weapon_type": "Rifle",
+      "gun_type": "AK-47",
+      "exterior": "Battle-Scarred",
+      "rarity": "Covert",
+      "rarity_color": "eb4b4b",
+      "price": {
+        "24_hours": {
+          "average": 18.71,
+          "median": 18.8,
+          "sold": "44",
+          "standard_deviation": "4.59",
+          "lowest_price": 17.68,
+          "highest_price": 20.62
+        },
+        "7_days": {
+          "average": 19.76,
+          "median": 19.91,
+          "sold": "278",
+          "standard_deviation": "6.46",
+          "lowest_price": 16.28,
+          "highest_price": 21.87
+        },
+        "30_days": {
+          "average": 20.08,
+          "median": 20.13,
+          "sold": "1415",
+          "standard_deviation": "5.26",
+          "lowest_price": 11.98,
+          "highest_price": 24.19
+        },
+        "all_time": {
+          "average": 12.45,
+          "median": 14.55,
+          "sold": "162126",
+          "standard_deviation": "35.07",
+          "lowest_price": 6.78,
+          "highest_price": 33.4
+        }
+      },
+      "first_sale_date": "1432764000"
+    },
+    "AK-47 | Aquamarine Revenge (Factory New)": {
+      "name": "AK-47 | Aquamarine Revenge (Factory New)",
+      "marketable": 1,
+      "tradable": 1,
+      "classid": "1012020677",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09-5gZKKkPLLMrfFqWdY781lxLuW8Njw31Dn8xc_YTqmJ4DDJFM2ZwqE_ATtx-u7g8C5vpjOzHM263E8pSGKJ1XuG9M",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09-5gZKKkPLLMrfFqWdY781lteXA54vwxgbjrkc5ZD3wLNLGcFVrYl6GrAS2x7y7g8PvupidzyRmuCUl4H6IzkSpwUYbC6zHyEM",
+      "type": "Weapon",
+      "weapon_type": "Rifle",
+      "gun_type": "AK-47",
+      "exterior": "Factory New",
+      "rarity": "Covert",
+      "rarity_color": "eb4b4b",
+      "price": {
+        "24_hours": {
+          "average": 61.4,
+          "median": 62.59,
+          "sold": "14",
+          "standard_deviation": "7.43",
+          "lowest_price": 54.85,
+          "highest_price": 68.09
+        },
+        "7_days": {
+          "average": 62.13,
+          "median": 61.15,
+          "sold": "80",
+          "standard_deviation": "6.99",
+          "lowest_price": 54.71,
+          "highest_price": 70.69
+        },
+        "30_days": {
+          "average": 64.09,
+          "median": 64.31,
+          "sold": "328",
+          "standard_deviation": "7.79",
+          "lowest_price": 40.55,
+          "highest_price": 84.24
+        },
+        "all_time": {
+          "average": 42.57,
+          "median": 39.74,
+          "sold": "50353",
+          "standard_deviation": "36.87",
+          "lowest_price": 23.12,
+          "highest_price": 158.59
+        }
+      },
+      "first_sale_date": "1432764000"
+    },
+    "AK-47 | Aquamarine Revenge (Field-Tested)": {
+      "name": "AK-47 | Aquamarine Revenge (Field-Tested)",
+      "marketable": 1,
+      "tradable": 1,
+      "classid": "1011938131",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09-5gZKKkPLLMrfFqWZU7Mxkh6eU896n0FXk-RJsNzv3cI-WJAA3YFDTqFa2l-u6jJW4uJqdyCBluyEm-z-DyCua9lLK",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09-5gZKKkPLLMrfFqWZU7Mxkh9bN9J7yjRrhrUFuazjzJteVJlQ6NVHTrFe3wObs15G06picwHFnvid25C3bnhSzn1gSOQz0szG-",
+      "type": "Weapon",
+      "weapon_type": "Rifle",
+      "gun_type": "AK-47",
+      "exterior": "Field-Tested",
+      "rarity": "Covert",
+      "rarity_color": "eb4b4b",
+      "price": {
+        "24_hours": {
+          "average": 27.54,
+          "median": 27.43,
+          "sold": "79",
+          "standard_deviation": "4.19",
+          "lowest_price": 24.92,
+          "highest_price": 29.61
+        },
+        "7_days": {
+          "average": 28.05,
+          "median": 28.05,
+          "sold": "608",
+          "standard_deviation": "4.94",
+          "lowest_price": 24.92,
+          "highest_price": 31.48
+        },
+        "30_days": {
+          "average": 28.55,
+          "median": 28.56,
+          "sold": "2889",
+          "standard_deviation": "4.55",
+          "lowest_price": 23.69,
+          "highest_price": 32.24
+        },
+        "all_time": {
+          "average": 20.22,
+          "median": 20.97,
+          "sold": "375058",
+          "standard_deviation": "37.21",
+          "lowest_price": 11.44,
+          "highest_price": 73.2
+        }
+      },
+      "first_sale_date": "1432764000"
+    },
+    "AK-47 | Aquamarine Revenge (Minimal Wear)": {
+      "name": "AK-47 | Aquamarine Revenge (Minimal Wear)",
+      "marketable": 1,
+      "tradable": 1,
+      "classid": "1819967861",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09-5gZKKkPLLMrfFqWdY781lxLuW8Njw31Dn8xc_YTqmJ4DDJFM2ZwqE_ATtx-u7g8C5vpjOzHM263E8pSGKJ1XuG9M",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09-5gZKKkPLLMrfFqWdY781lteXA54vwxgbjrkc5ZD3wLNLGcFVrYl6GrAS2x7y7g8PvupidzyRmuCUl4H6IzkSpwUYbC6zHyEM",
+      "type": "Weapon",
+      "weapon_type": "Rifle",
+      "gun_type": "AK-47",
+      "exterior": "Minimal Wear",
+      "rarity": "Covert",
+      "rarity_color": "eb4b4b",
+      "price": {
+        "24_hours": {
+          "average": 38.72,
+          "median": 37.91,
+          "sold": "28",
+          "standard_deviation": "5.51",
+          "lowest_price": 35.32,
+          "highest_price": 41.33
+        },
+        "7_days": {
+          "average": 41.04,
+          "median": 41.33,
+          "sold": "208",
+          "standard_deviation": "6.38",
+          "lowest_price": 29.95,
+          "highest_price": 45.78
+        },
+        "30_days": {
+          "average": 41.87,
+          "median": 42.07,
+          "sold": "1017",
+          "standard_deviation": "6.04",
+          "lowest_price": 29.95,
+          "highest_price": 52.16
+        },
+        "all_time": {
+          "average": 28.97,
+          "median": 29.26,
+          "sold": "161521",
+          "standard_deviation": "37.02",
+          "lowest_price": 15.6,
+          "highest_price": 97.85
+        }
+      },
+      "first_sale_date": "1432764000"
+    },
+    "AK-47 | Aquamarine Revenge (Well-Worn)": {
+      "name": "AK-47 | Aquamarine Revenge (Well-Worn)",
+      "marketable": 1,
+      "tradable": 1,
+      "classid": "2095030666",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09-5gZKKkPLLMrfFqWZU7Mxkh6eU896n0FXk-RJsNzv3cI-WJAA3YFDTqFa2l-u6jJW4uJqdyCBluyEm-z-DyCua9lLK",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09-5gZKKkPLLMrfFqWZU7Mxkh9bN9J7yjRrhrUFuazjzJteVJlQ6NVHTrFe3wObs15G06picwHFnvid25C3bnhSzn1gSOQz0szG-",
+      "type": "Weapon",
+      "weapon_type": "Rifle",
+      "gun_type": "AK-47",
+      "exterior": "Well-Worn",
+      "rarity": "Covert",
+      "rarity_color": "eb4b4b",
+      "price": {
+        "24_hours": {
+          "average": 23.88,
+          "median": 23.79,
+          "sold": "63",
+          "standard_deviation": "3.64",
+          "lowest_price": 21.63,
+          "highest_price": 25.06
+        },
+        "7_days": {
+          "average": 25.08,
+          "median": 25.06,
+          "sold": "381",
+          "standard_deviation": "6.93",
+          "lowest_price": 17.88,
+          "highest_price": 28.95
+        },
+        "30_days": {
+          "average": 25.61,
+          "median": 25.81,
+          "sold": "1675",
+          "standard_deviation": "5.46",
+          "lowest_price": 17.88,
+          "highest_price": 29.66
+        },
+        "all_time": {
+          "average": 18.2,
+          "median": 19.06,
+          "sold": "197788",
+          "standard_deviation": "33.9",
+          "lowest_price": 10.03,
+          "highest_price": 61.21
+        }
+      },
+      "first_sale_date": "1432764000"
+    }
+  }
+}
